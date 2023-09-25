@@ -1,13 +1,13 @@
 {
-  "CONTRACT_ADDRESS": "0xFCFA36e3901c5087c1D946c0a5c47AA8C80b8Eea",
-  "SCAN_LINK": "https://polygonscan.com/token/0xFCFA36e3901c5087c1D946c0a5c47AA8C80b8Eea",
+  "CONTRACT_ADDRESS": "0x70341ac669E6dDe22655381Aeb1B0fc3E54a156f",
+  "SCAN_LINK": "https://polygonscan.com/token/0x70341ac669E6dDe22655381Aeb1B0fc3E54a156f",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "pi Tiger v2",
-  "SYMBOL": "Pi Tiger v2 ",
+  "NFT_NAME": "pi Tiger King V2",
+  "SYMBOL": "Pi Tiger King V2 ",
   "MAX_SUPPLY": 9900,
   "WEI_COST": 3000000000000000000,
   "DISPLAY_COST": 3,
